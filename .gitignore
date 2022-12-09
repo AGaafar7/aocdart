@@ -2,8 +2,5 @@
 .dart_tool/
 .packages
 
-# Input Files
-/lib/inputs/
-
 # Conventional directory for build output.
 build/
